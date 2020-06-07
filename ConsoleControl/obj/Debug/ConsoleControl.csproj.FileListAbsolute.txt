@@ -1,0 +1,6 @@
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl\bin\Debug\ConsoleControl.dll
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl\bin\Debug\ConsoleControl.pdb
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl\obj\Debug\ConsoleControl.csprojAssemblyReference.cache
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl\obj\Debug\ConsoleControl.csproj.CoreCompileInputs.cache
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl\obj\Debug\ConsoleControl.dll
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl\obj\Debug\ConsoleControl.pdb

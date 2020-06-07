@@ -1,0 +1,11 @@
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl.Demo\bin\Debug\ConsoleControl.Demo.exe
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl.Demo\bin\Debug\ConsoleControl.Demo.pdb
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl.Demo\bin\Debug\ConsoleControl.dll
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl.Demo\bin\Debug\ConsoleControl.pdb
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl.Demo\obj\Debug\ConsoleControl.Demo.csprojAssemblyReference.cache
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl.Demo\obj\Debug\ConsoleControl.Demo.Properties.Resources.resources
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl.Demo\obj\Debug\ConsoleControl.Demo.csproj.GenerateResource.cache
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl.Demo\obj\Debug\ConsoleControl.Demo.csproj.CoreCompileInputs.cache
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl.Demo\obj\Debug\ConsoleControl.Demo.csproj.CopyComplete
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl.Demo\obj\Debug\ConsoleControl.Demo.exe
+C:\Users\icema\source\repos\ConsoleControl\ConsoleControl.Demo\obj\Debug\ConsoleControl.Demo.pdb
